@@ -1,4 +1,5 @@
-# MyFirstApp
+# Introduction to Services
+# Contains a list of active users and inactive users that can be dynamically changed while producing a counter in the console of how many times the status was changed.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
